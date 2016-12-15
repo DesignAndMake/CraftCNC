@@ -1,4 +1,17 @@
-# CraftCNC
-Free plans &amp; instructions to build your own CNC carving machine for arts, crafts and creative design using only laser cut, 3D printed and easily obtainable parts.
+##Welcome to the CraftCNC Wiki##
 
-[Assembly Instructions](https://github.com/DesignAndMake/CraftCNC/wiki/Assembly-Instructions)
+If you want to build your own machine follow these steps:
+
+* Download and print the STL files [STL files](https://github.com/DesignAndMake/CraftCNC/wiki/STL-files)
+* Download and laser cut the DXF files [DXF files](https://github.com/DesignAndMake/CraftCNC/wiki/DXF-files-10mm)
+* Follow the [Assembly Instructions](https://github.com/DesignAndMake/CraftCNC/wiki/Assembly-Instructions)
+* Download and install the control software
+* Grab a project from [Design & Make](https://www.designandmake.com)
+* Your off!
+
+##Self-build CNC
+[![Self-build CNC]
+(http://img.youtube.com/vi/AgFhe7jJRv0/0.jpg)]
+(https://youtu.be/AgFhe7jJRv0)
+
+...more projects to follow
