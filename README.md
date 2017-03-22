@@ -1,4 +1,4 @@
-##Welcome to the CraftCNC Wiki##
+## Welcome to the CraftCNC Wiki ##
 
 If you want to build your own machine follow these steps:
 
@@ -9,9 +9,8 @@ If you want to build your own machine follow these steps:
 * Grab a project from [Design & Make](https://www.designandmake.com)
 * Your off!
 
-##Self-build CNC
-[![Self-build CNC]
-(http://img.youtube.com/vi/AgFhe7jJRv0/0.jpg)]
-(https://youtu.be/AgFhe7jJRv0)
+## Self-build CNC
+
+[![Self-build CNC](http://img.youtube.com/vi/AgFhe7jJRv0/0.jpg)](https://youtu.be/AgFhe7jJRv0)
 
 ...more projects to follow
