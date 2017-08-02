@@ -11,6 +11,6 @@ If you want to build your own machine follow these steps:
 
 ## Self-build CNC
 
-[![Self-build CNC](http://img.youtube.com/vi/AgFhe7jJRv0/0.jpg)](https://youtu.be/AgFhe7jJRv0)
+[![Self-build CNC](http://img.youtube.com/vi/Zaxm20WJti4/0.jpg)](https://youtu.be/Zaxm20WJti4)
 
 ...more projects to follow
